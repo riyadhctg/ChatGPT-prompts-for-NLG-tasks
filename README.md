@@ -1,10 +1,8 @@
-Sample prompts for different tasks investigated to use ChatGPT as an automatic evaluator for some NLG tasks.
-
-This work has been published in:
+Sample prompts for different tasks investigated in the following study to use ChatGPT as an automatic evaluator for some NLG tasks.
 
 >Riyadh M., Shafiq O., "Towards Automatic Evaluation of NLG Tasks using Conversational Large Language Models" Proceedings of the 4th IFIP International Conference on Artificial Intelligence Applications and Innovations (AIAI 2023) 4. Springer US, 2023.
 
-Please cite this paper if you leverage these prompt formats in your work.
+Please cite this paper if you utilize these prompt formats in your work.
 
 ---
 
